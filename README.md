@@ -7,4 +7,5 @@
 - ⚡ Fun fact: i still use edge...
       bye!!
   
-[![Userdev265scratchandpython's GitHub stats-all](https://github-readme-stats.vercel.app/api?username=userdev265scratchandpython&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Userdev265scratchandpython's GitHub stats-all](https://github-readme-stats.vercel.app/api?username=userdev265scratchandpython&show_icons=true&theme=transparent&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userdev265scratchandpython&theme=transparent&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
