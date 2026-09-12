@@ -7,5 +7,5 @@
 - ⚡ Fun fact: If you see a commit by `no one`, i swear it's my git identity
       bye!!
   
-[![Userdev265scratchandpython's GitHub stats-all](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Userdev265scratchandpython's GitHub stats-all](https://github-stats-extended.vercel.app/api?username=anuraghazra)]()
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra)])
